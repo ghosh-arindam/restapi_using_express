@@ -1,0 +1,23 @@
+{
+  "name": "restapi_using_express",
+  "version": "1.0.0",
+  "description": "Creating Sample Rest API Framework using Express/ NodeJs and Mongo DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghosh-arindam/restapi_using_express.git"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "Arindam Ghosh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghosh-arindam/restapi_using_express/issues"
+  },
+  "homepage": "https://github.com/ghosh-arindam/restapi_using_express#readme"
+}
